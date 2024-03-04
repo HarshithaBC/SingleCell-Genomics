@@ -1,6 +1,6 @@
 # Single-Cell RNA-Seq Analysis
 
-This repository contains code and documentation showcasing my practice and skills in single-cell RNA sequencing (scRNA-seq) data analysis. The analyses cover two distinct projects -
+This repository contains code and documentation showcasing my practice and skills in single-cell omics analysis. The analyses cover two distinct projects -
 Single Cell Analysis of PBMK 3k
 Single Cell Immune Profiling of Human Ovarian Tumour 5k
 
@@ -23,7 +23,7 @@ Anyway, the standard workflow I followed is as follows -
 * Assigning cell type identity to clusters
 
 ## Future
-I furthermore want to try different ways of normalizing the data and performing dimensional reductionality, to understand UMAP better. I also want to learn to use Seurat for multi-modal data. Another one on my bucket list is to do bacterial scRNA analysis! Having studied microbiology as one of my majors in undergrad, its would be really cool to do that. 
+I furthermore want to try different ways of normalizing the data and performing dimensional reductionality, to understand UMAP better. I also want to learn to use Seurat for multi-modal data. Another one on my bucket list is to do bacterial scRNA analysis! Having studied microbiology as one of my majors during undergrad, it would be really cool to do that. 
 
 If you have any questions, please do not hesitate to contact me at - harshitha.chandra01@gmail.com. 
 
